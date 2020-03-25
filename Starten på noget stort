@@ -1,0 +1,3 @@
+Setup () {
+background(255);
+}
